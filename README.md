@@ -7,7 +7,8 @@ to run our code:
 "python main.py"
 
 
-''' python
+``` python ```
+````
 def hello():
   return "Hello"
 ''''  
